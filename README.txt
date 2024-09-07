@@ -1,8 +1,9 @@
 IoT-based Environmental Monitoring and Prediction of Banana Moisture Content in a Solar Greenhouse Dryer
-1.0 IoT System Programs
 
 This project focuses on the development of an IoT-based system for monitoring environmental conditions and predicting the moisture content of bananas during the drying process in a solar greenhouse dryer. The system integrates various Arduino-based programs for data acquisition, and Matlab scripts for modeling and climate analysis. Below are the details on how to use the provided programs.
 
+
+1.0 IoT System Programs
 The IoT SYSTEM PROGRAMS folder contains the necessary Arduino programs for the monitoring system. Generally, you must make the appropriate connections and upload the corresponding program to each device (Arduino and TTGO LoRa 32).
 
 The ARDUINO_MEGA program corresponds to the primary Arduino.
